@@ -1,0 +1,4 @@
+sqlalchemy[asyncio]>=1.4.32
+fastapi>=0.74.1
+requests>=2.27.1
+uvicorn>=0.17.5
